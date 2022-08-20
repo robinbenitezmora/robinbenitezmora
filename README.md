@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Robin</h1>
-![linkedin-banner](https://user-images.githubusercontent.com/26911718/183757598-d99266aa-e603-4cdb-b926-9ba09cdd7ab3.jpg)
+![Presentation](https://user-images.githubusercontent.com/90795408/185757659-cd433fe2-e608-4833-be58-2f174a4aaa3d.jpg)
+
 <h3 align="center">A passionate frontend developer from Colombia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=robinbenitezmora&label=Profile%20views&color=0e75b6&style=flat" alt="robinbenitezmora" /> </p>
