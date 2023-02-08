@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 👨‍💻 All of my projects are available at [https://robinbenitezmora.github.io/Portfolio-Robin-Benitez/]([https://robinbenitezmora.github.io/Portfolio-Robin-Benitez](https://fantastic-vacherin-cc7c94.netlify.app/)/)
+- 👨‍💻 All of my projects are available at [https://robinbenitezmora.github.io/Portfolio-Robin-Benitez/]([https://fantastic-vacherin-cc7c94.netlify.app/])
 
 - 💬 Ask me about **Javascript, HTML, CSS and Testing**
 
