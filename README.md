@@ -14,9 +14,9 @@
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://fantastic-vacherin-cc7c94.netlify.app)
 
-- 💬 Ask me about **Javascript, HTML, CSS and Testing**
+- 💬 Ask me about **Ruby on Rails, React and Redux, Javascript, HTML, CSS, Testing and PostgreSQL**
 
-- 📫 How to reach me **robinbenitez@yahoo.com**
+- 📫 How to reach me in [My Email](https://mail.yahoo.com/d/folders/1)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
