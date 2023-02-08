@@ -1,8 +1,8 @@
 <img src="https://user-images.githubusercontent.com/90795408/185757659-cd433fe2-e608-4833-be58-2f174a4aaa3d.jpg" align="center" alt="robinbenitezmora" />
 
-<h1 align="center">Hi 👋, I'm Robin</h1>
+<h1 align="center">Hello There! 👋, I'm Robin</h1>
 
-<h3 align="center">A passionate frontend developer from Colombia</h3>
+<h3 align="center">Former Mechanical Engineer turned Full-Stack Developer, leveraging a strong technical background and a passion for creating intuitive web applications. With experience in both frontend and backend development, I bring a unique blend of engineering and software skills to the table. Check out my projects to see how my diverse background enhances my ability to deliver exceptional results</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=robinbenitezmora&label=Profile%20views&color=0e75b6&style=flat" alt="robinbenitezmora" /> </p>
 
