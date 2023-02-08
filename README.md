@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Ruby on Rails, React and Redux, Javascript, HTML, CSS, Testing and PostgreSQL**
 
-- 📫 How to reach me in [My Email](robinbenitez@yahoo.com)
+- 📫 How to reach me in **robinbenitez@yahoo.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
