@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://melodious-pony-b93dcb.netlify.app)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://clinquant-concha-5da600.netlify.app)
 
 - 💬 Ask me about **Ruby on Rails, React and Redux, Javascript, HTML, CSS, Testing and PostgreSQL**
 
